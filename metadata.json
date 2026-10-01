@@ -1,0 +1,6 @@
+{
+  "name": "penmAI - Her Voice. Her Language. Her Access.",
+  "description": "Zero-tech-barrier, voice-first digital accessibility AI enabling first-time women users to independently discover, understand, and access essential government schemes and skill resources in their own language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
